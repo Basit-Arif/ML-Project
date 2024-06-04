@@ -1,0 +1,28 @@
+[2024-06-05 03:45:06,954]:INFO: 160 NumExpr defaulting to 8 threads.
+[2024-06-05 03:45:11,462]:INFO: 51 Starting the Program
+[2024-06-05 03:45:11,462]:INFO: 26 Entered the data ingestion method or component
+[2024-06-05 03:45:11,492]:INFO: 29 DataIngested
+[2024-06-05 03:45:11,501]:INFO: 37 DataIngestion completed
+[2024-06-05 03:45:11,501]:INFO: 54 DataIngestion completed
+[2024-06-05 03:45:11,504]:INFO: 70 Data is loaded
+[2024-06-05 03:45:11,504]:INFO: 44 Numerical Standard Scaler is Completed
+[2024-06-05 03:45:11,504]:INFO: 52 Categorical encoded is Completed
+[2024-06-05 03:45:11,505]:INFO: 79 Now Applying Preprocessing
+[2024-06-05 03:45:11,514]:INFO: 87 save_preprocessing_object
+[2024-06-05 03:45:11,515]:INFO: 58 Transformation Program completed
+[2024-06-05 03:45:24,581]:INFO: 76 best model found
+[2024-06-05 03:45:24,584]:INFO: 61 Model Training completed
+[2024-06-05 03:49:33,964]:INFO: 160 NumExpr defaulting to 8 threads.
+[2024-06-05 03:49:38,153]:INFO: 51 Starting the Program
+[2024-06-05 03:49:38,153]:INFO: 26 Entered the data ingestion method or component
+[2024-06-05 03:49:38,179]:INFO: 29 DataIngested
+[2024-06-05 03:49:38,188]:INFO: 37 DataIngestion completed
+[2024-06-05 03:49:38,188]:INFO: 54 DataIngestion completed
+[2024-06-05 03:49:38,190]:INFO: 70 Data is loaded
+[2024-06-05 03:49:38,190]:INFO: 44 Numerical Standard Scaler is Completed
+[2024-06-05 03:49:38,190]:INFO: 52 Categorical encoded is Completed
+[2024-06-05 03:49:38,191]:INFO: 79 Now Applying Preprocessing
+[2024-06-05 03:49:38,200]:INFO: 87 save_preprocessing_object
+[2024-06-05 03:49:38,202]:INFO: 58 Transformation Program completed
+[2024-06-05 03:49:50,601]:INFO: 76 best model found
+[2024-06-05 03:49:50,604]:INFO: 61 Model Training completed
