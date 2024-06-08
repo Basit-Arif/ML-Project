@@ -16,19 +16,19 @@ jobs:
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v2
 
-      - name: Log in to Amazon ECR
-        id: login-ecr
-        uses: aws-actions/amazon-ecr-login@v1
-        with:
-          registry: ${{ secrets.AWS_ECR_LOGIN_URL }}
-          region: ${{ secrets.AWS_REGION }}
-          access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      # - name: Log in to Amazon ECR
+      #   id: login-ecr
+      #   uses: aws-actions/amazon-ecr-login@v1
+      #   with:
+      #     registry: ${{ secrets.AWS_ECR_LOGIN_URL }}
+      #     region: ${{ secrets.AWS_REGION }}
+      #     access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      #     secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
-      - name: Build Docker image
-        run: |
-          docker build -t ${{ secrets.AWS_ECR_LOGIN_URL }}/math_score:latest .
+      # - name: Build Docker image
+      #   run: |
+      #     docker build -t ${{ secrets.AWS_ECR_LOGIN_URL }}/math_score:latest .
 
-      - name: Push Docker image to ECR
-        run: |
-          docker push ${{ secrets.AWS_ECR_LOGIN_URL }}/math_score:latest
+      # - name: Push Docker image to ECR
+      #   run: |
+      #     docker push ${{ secrets.AWS_ECR_LOGIN_URL }}/math_score:latest
