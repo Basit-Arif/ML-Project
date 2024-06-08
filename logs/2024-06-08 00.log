@@ -1,0 +1,47 @@
+[2024-06-08 00:05:53,358]:INFO: 224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+[2024-06-08 00:05:53,358]:INFO: 224 [33mPress CTRL+C to quit[0m
+[2024-06-08 00:05:53,395]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-08 00:05:54,496]:WARNING: 224  * Debugger is active!
+[2024-06-08 00:05:54,508]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-08 00:06:20,688]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-08 00:06:25,046]:INFO: 224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+[2024-06-08 00:06:25,046]:INFO: 224 [33mPress CTRL+C to quit[0m
+[2024-06-08 00:06:25,053]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-08 00:06:26,100]:WARNING: 224  * Debugger is active!
+[2024-06-08 00:06:26,110]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-08 00:07:11,087]:INFO: 224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+[2024-06-08 00:07:11,087]:INFO: 224 [33mPress CTRL+C to quit[0m
+[2024-06-08 00:07:11,094]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-08 00:07:12,242]:WARNING: 224  * Debugger is active!
+[2024-06-08 00:07:12,250]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-08 00:13:15,313]:INFO: 97 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+[2024-06-08 00:13:15,313]:INFO: 97 [33mPress CTRL+C to quit[0m
+[2024-06-08 00:13:15,313]:INFO: 97  * Restarting with stat
+[2024-06-08 00:13:16,307]:WARNING: 97  * Debugger is active!
+[2024-06-08 00:13:16,319]:INFO: 97  * Debugger PIN: 137-170-182
+[2024-06-08 00:13:57,894]:INFO: 97  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-08 00:13:58,027]:INFO: 97  * Restarting with stat
+[2024-06-08 00:13:59,327]:WARNING: 97  * Debugger is active!
+[2024-06-08 00:13:59,336]:INFO: 97  * Debugger PIN: 137-170-182
+[2024-06-08 00:14:49,022]:INFO: 97  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-08 00:14:49,148]:INFO: 97  * Restarting with stat
+[2024-06-08 00:14:50,369]:WARNING: 97  * Debugger is active!
+[2024-06-08 00:14:50,380]:INFO: 97  * Debugger PIN: 137-170-182
+[2024-06-08 00:18:46,018]:INFO: 97 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2024-06-08 00:18:46,018]:INFO: 97 [33mPress CTRL+C to quit[0m
+[2024-06-08 00:18:46,018]:INFO: 97  * Restarting with stat
+[2024-06-08 00:18:47,087]:WARNING: 97  * Debugger is active!
+[2024-06-08 00:18:47,096]:INFO: 97  * Debugger PIN: 137-170-182
+[2024-06-08 00:19:03,757]:INFO: 97 127.0.0.1 - - [08/Jun/2024 00:19:03] "GET / HTTP/1.1" 200 -
+[2024-06-08 00:19:52,182]:INFO: 97 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2024-06-08 00:19:52,182]:INFO: 97 [33mPress CTRL+C to quit[0m
+[2024-06-08 00:19:52,183]:INFO: 97  * Restarting with stat
+[2024-06-08 00:19:53,169]:WARNING: 97  * Debugger is active!
+[2024-06-08 00:19:53,177]:INFO: 97  * Debugger PIN: 137-170-182
+[2024-06-08 02:33:32,599]:INFO: 97 127.0.0.1 - - [08/Jun/2024 02:33:32] "GET / HTTP/1.1" 200 -

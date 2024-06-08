@@ -1,0 +1,25 @@
+[2024-06-08 02:34:43,131]:INFO: 97 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2024-06-08 02:34:43,131]:INFO: 97 [33mPress CTRL+C to quit[0m
+[2024-06-08 02:34:43,132]:INFO: 97  * Restarting with stat
+[2024-06-08 02:34:44,170]:WARNING: 97  * Debugger is active!
+[2024-06-08 02:34:44,180]:INFO: 97  * Debugger PIN: 137-170-182
+[2024-06-08 02:36:32,216]:INFO: 97 127.0.0.1 - - [08/Jun/2024 02:36:32] "GET / HTTP/1.1" 200 -
+[2024-06-08 02:36:57,013]:INFO: 97 127.0.0.1 - - [08/Jun/2024 02:ç57] "GET / HTTP/1.1" 200 -
+[2024-06-08 02:56:58,210]:INFO: 97 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://192.168.100.9:5005
+[2024-06-08 02:56:58,210]:INFO: 97 [33mPress CTRL+C to quit[0m
+[2024-06-08 02:56:58,211]:INFO: 97  * Restarting with stat
+[2024-06-08 02:56:59,208]:WARNING: 97  * Debugger is active!
+[2024-06-08 02:56:59,217]:INFO: 97  * Debugger PIN: 137-170-182
+[2024-06-08 02:57:06,288]:INFO: 97  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-08 02:57:06,400]:INFO: 97  * Restarting with stat
+[2024-06-08 02:57:07,490]:WARNING: 97  * Debugger is active!
+[2024-06-08 02:57:07,497]:INFO: 97  * Debugger PIN: 137-170-182
+[2024-06-08 03:05:17,629]:INFO: 97 127.0.0.1 - - [08/Jun/2024 03:05:17] "GET / HTTP/1.1" 200 -
+[2024-06-08 03:05:18,861]:INFO: 97 127.0.0.1 - - [08/Jun/2024 03:05:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-06-08 03:05:37,710]:INFO: 97 127.0.0.1 - - [08/Jun/2024 03:05:37] "GET /home HTTP/1.1" 200 -
+[2024-06-08 03:05:47,324]:INFO: 50 converting raw data into DataFrame
+[2024-06-08 03:05:47,621]:INFO: 97 127.0.0.1 - - [08/Jun/2024 03:05:47] "POST /home HTTP/1.1" 200 -

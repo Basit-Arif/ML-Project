@@ -9,7 +9,6 @@ def message_error(error,error_message:sys):
 
 
 class CustomException(Exception):
-
     def __init__(self, error, error_message:sys):
         super().__init__(error)
         self.error=message_error(error=error,error_message=error_message)

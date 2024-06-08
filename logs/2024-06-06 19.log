@@ -1,0 +1,228 @@
+[2024-06-06 19:42:43,372]:INFO: 224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[2024-06-06 19:42:43,372]:INFO: 224 [33mPress CTRL+C to quit[0m
+[2024-06-06 19:42:43,381]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:42:43,835]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:42:43,844]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:42:49,091]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:42:49] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+[2024-06-06 19:42:49,172]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:42:49] "GET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-06-06 19:42:49,172]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:42:49] "GET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2024-06-06 19:42:49,183]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:42:49] "GET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-06-06 19:42:49,321]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:42:49] "[36mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-06 19:42:57,259]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:42:57] "GET /home HTTP/1.1" 200 -
+[2024-06-06 19:43:07,226]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:43:07] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+[2024-06-06 19:43:07,234]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:43:07] "[36mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-06-06 19:43:07,235]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:43:07] "[36mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-06-06 19:43:07,239]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:43:07] "[36mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-06 19:43:21,697]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:43:22,781]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:43:23,557]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:43:23,564]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:43:41,737]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:43:42,818]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:43:43,500]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:43:43,510]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:43:45,522]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:43:45] "POST /home HTTP/1.1" 200 -
+[2024-06-06 19:44:01,791]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:44:01] "POST /home HTTP/1.1" 200 -
+[2024-06-06 19:44:42,850]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:44:43,952]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:44:44,794]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:44:44,801]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:44:48,956]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:44:48] "POST /home HTTP/1.1" 200 -
+[2024-06-06 19:45:02,295]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:45:03,370]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:45:03,989]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:45:03,999]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:45:05,821]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:45:05] "POST /home HTTP/1.1" 200 -
+[2024-06-06 19:45:17,315]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:45:17] "POST /home HTTP/1.1" 200 -
+[2024-06-06 19:46:31,172]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:46:32,261]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:46:32,987]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:46:32,994]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:46:38,588]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:46:39,666]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:46:40,195]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:46:40,202]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:47:58,095]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:47:59,179]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:47:59,691]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:47:59,698]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:48:01,771]:INFO: 224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+[2024-06-06 19:48:01,772]:INFO: 224 [33mPress CTRL+C to quit[0m
+[2024-06-06 19:48:01,779]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:48:02,808]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:48:02,814]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:48:32,556]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:48:32] "GET /home HTTP/1.1" 200 -
+[2024-06-06 19:48:33,007]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:48:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-06-06 19:50:00,654]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:50:00,659]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:50:01,726]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:50:02,554]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:50:02,562]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:50:18,104]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:18] "POST /home HTTP/1.1" 200 -
+[2024-06-06 19:50:19,022]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:50:20,308]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:50:20,315]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:50:20,373]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:20] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+[2024-06-06 19:50:20,374]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:20] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+[2024-06-06 19:50:20,398]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:20] "GET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2024-06-06 19:50:20,401]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:20] "GET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-06-06 19:50:20,409]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:20] "GET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-06-06 19:50:28,887]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:28] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+[2024-06-06 19:50:28,897]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:28] "[36mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-06-06 19:50:28,899]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:28] "[36mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-06-06 19:50:28,903]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:28] "[36mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-06 19:50:32,077]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:32] "GET /home HTTP/1.1" 200 -
+[2024-06-06 19:50:40,842]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:40] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+[2024-06-06 19:50:40,856]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:40] "[36mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-06-06 19:50:40,858]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:40] "[36mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-06-06 19:50:40,865]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:50:40] "[36mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-06 19:51:16,985]:INFO: 224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+[2024-06-06 19:51:16,986]:INFO: 224 [33mPress CTRL+C to quit[0m
+[2024-06-06 19:51:16,997]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:51:18,052]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:51:18,061]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:51:21,323]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:51:21] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+[2024-06-06 19:51:21,344]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:51:21] "[36mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-06-06 19:51:21,345]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:51:21] "[36mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-06-06 19:51:21,350]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:51:21] "[36mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-06 19:51:23,743]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:51:23] "GET /home HTTP/1.1" 200 -
+[2024-06-06 19:51:32,882]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:51:32] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+[2024-06-06 19:51:32,895]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:51:32] "[36mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-06-06 19:51:32,896]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:51:32] "[36mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-06-06 19:51:32,901]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:51:32] "[36mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-06 19:52:25,743]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:52:25,746]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:52:26,893]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:52:27,744]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:52:27,752]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:52:36,359]:INFO: 224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+[2024-06-06 19:52:36,359]:INFO: 224 [33mPress CTRL+C to quit[0m
+[2024-06-06 19:52:36,366]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:52:37,427]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:52:37,435]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:52:38,637]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:52:38] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+[2024-06-06 19:52:38,661]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:52:38] "[36mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-06-06 19:52:38,662]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:52:38] "[36mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-06-06 19:52:38,669]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:52:38] "[36mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-06 19:52:40,317]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:52:40] "GET /home HTTP/1.1" 200 -
+[2024-06-06 19:52:48,444]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:52:48] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+[2024-06-06 19:52:48,456]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:52:48] "[36mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-06-06 19:52:48,457]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:52:48] "[36mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-06-06 19:52:48,463]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:52:48] "[36mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-06 19:52:58,379]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:52:58,382]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:52:59,476]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:53:00,147]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:53:00,156]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:53:05,892]:INFO: 224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+[2024-06-06 19:53:05,892]:INFO: 224 [33mPress CTRL+C to quit[0m
+[2024-06-06 19:53:05,899]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:53:06,939]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:53:06,946]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:53:10,304]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:53:10] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+[2024-06-06 19:53:10,320]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:53:10] "[36mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-06-06 19:53:10,323]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:53:10] "[36mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-06-06 19:53:10,327]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:53:10] "[36mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-06 19:53:38,900]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:53:38,904]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:53:40,060]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:53:40,808]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:53:40,826]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:53:45,761]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:53:47,051]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:53:47,059]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:53:49,370]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:53:49] "POST /home HTTP/1.1" 200 -
+[2024-06-06 19:54:55,523]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/src/pipeline/predict_pipeline.py', reloading
+[2024-06-06 19:54:55,526]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/src/pipeline/predict_pipeline.py', reloading
+[2024-06-06 19:54:56,642]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:54:57,403]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:54:57,410]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:55:13,682]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:55:14,749]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:55:15,390]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:55:15,397]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:56:03,322]:INFO: 224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+[2024-06-06 19:56:03,322]:INFO: 224 [33mPress CTRL+C to quit[0m
+[2024-06-06 19:56:03,331]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:56:04,440]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:56:04,451]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:56:04,581]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:56:04] "GET /home HTTP/1.1" 200 -
+[2024-06-06 19:56:30,711]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:56:30,714]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:56:31,853]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:56:32,490]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:56:32,497]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:56:32,526]:INFO: 224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+[2024-06-06 19:56:32,526]:INFO: 224 [33mPress CTRL+C to quit[0m
+[2024-06-06 19:56:32,534]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:56:33,617]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:56:33,624]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:56:33,681]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:56:33] "GET /home HTTP/1.1" 200 -
+[2024-06-06 19:56:51,226]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:56:51] "POST /home HTTP/1.1" 200 -
+[2024-06-06 19:57:02,513]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:57:02,515]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:57:03,615]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:57:04,331]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:57:04,338]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:57:07,603]:INFO: 224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+[2024-06-06 19:57:07,603]:INFO: 224 [33mPress CTRL+C to quit[0m
+[2024-06-06 19:57:07,612]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:57:08,671]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:57:08,679]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:57:49,301]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:57:49,305]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:57:50,435]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:57:51,072]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:57:51,079]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:57:51,130]:INFO: 224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+[2024-06-06 19:57:51,130]:INFO: 224 [33mPress CTRL+C to quit[0m
+[2024-06-06 19:57:51,137]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:57:52,191]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:57:52,198]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:57:54,018]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:57:54] "GET /home HTTP/1.1" 200 -
+[2024-06-06 19:58:08,546]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:58:08,548]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:58:09,617]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:58:10,365]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:58:10,372]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:58:11,886]:INFO: 224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+[2024-06-06 19:58:11,886]:INFO: 224 [33mPress CTRL+C to quit[0m
+[2024-06-06 19:58:11,893]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:58:12,994]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:58:13,002]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 19:58:13,053]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:58:13] "GET /home HTTP/1.1" 200 -
+[2024-06-06 19:58:13,053]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:58:13] "GET /home HTTP/1.1" 200 -
+[2024-06-06 19:58:13,278]:INFO: 224 127.0.0.1 - - [06/Jun/2024 19:58:13] "GET /home HTTP/1.1" 200 -
+[2024-06-06 19:59:01,205]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:59:01,208]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 19:59:02,284]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 19:59:02,988]:WARNING: 224  * Debugger is active!
+[2024-06-06 19:59:02,996]:INFO: 224  * Debugger PIN: 217-397-339
+[2024-06-06 20:02:07,216]:INFO: 224  * Detected change in '/Users/basitarif/Documents/ML-Projectgit/ML-Project/app.py', reloading
+[2024-06-06 20:02:08,292]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 20:03:04,531]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 20:03:56,479]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 20:05:14,831]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 20:05:26,939]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 20:05:29,376]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 20:05:51,221]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 20:07:11,653]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 20:07:14,352]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 20:07:59,839]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 20:39:22,742]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 20:57:36,163]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-06 21:04:41,965]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-07 01:20:44,120]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-07 01:20:47,440]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-07 01:21:43,511]:INFO: 224  * Restarting with watchdog (fsevents)
+[2024-06-07 01:21:55,386]:INFO: 224  * Restarting with watchdog (fsevents)
