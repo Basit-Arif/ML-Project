@@ -38,7 +38,7 @@ jobs:
           echo "image=$ECR_REGISTRY/$REPOSITORY:lastest" >> $GITHUB_OUTPUT
 
   deploy-to-ec2:
-    runs-on: Self-hosted2
+    runs-on: self-hosted
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
