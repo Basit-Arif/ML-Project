@@ -36,3 +36,28 @@ jobs:
           docker build -t $ECR_REGISTRY/$REPOSITORY:latest .
           docker push $ECR_REGISTRY/$REPOSITORY:latest
           echo "image=$ECR_REGISTRY/$REPOSITORY:lastest" >> $GITHUB_OUTPUT
+
+  deploy-to-ec2:
+    runs-on: Self-hosted2
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Pull Image Into EC2
+        run: |
+          docker pull ${{secrets.AWS_ECR_LOGIN_URL}}/math_score:latest 
+

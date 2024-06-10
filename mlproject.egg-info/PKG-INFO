@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: mlproject
 Version: 0.0.1
-Author: Krish
-Author-email: krishnaik06@gmail.com
+Author: Abdul Basit
+Author-email: basitarif235@gmail.com
 Requires-Dist: flask
 Requires-Dist: scikit-learn
 Requires-Dist: numpy
